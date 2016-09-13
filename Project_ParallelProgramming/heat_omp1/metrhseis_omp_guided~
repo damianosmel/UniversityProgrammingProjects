@@ -1,0 +1,45 @@
+<================================8==================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8->Using Guided scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 1772.3572492599 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+<================================25=================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 25->Using Guided scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 2041.7813241482 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+<================================64=================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 64->Using Guided scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 2435.1950883865 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<==============================121================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 121->Using Guided scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 3227.5716662407 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<==============================196================================>

@@ -1,0 +1,1072 @@
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+10        24
+AVAILABLE SEATS:
+0       0
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+10        24
+AVAILABLE SEATS:
+0       0
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+10        24
+AVAILABLE SEATS:
+0       0
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+4       0
+AVAILABLE SEATS:
+A class       B class
+2         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+4
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+10        24
+AVAILABLE SEATS:
+0       0
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+10        24
+AVAILABLE SEATS:
+0       0
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+10        24
+AVAILABLE SEATS:
+0       0
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+4       0
+AVAILABLE SEATS:
+A class       B class
+2         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+4
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+3       0
+AVAILABLE SEATS:
+A class       B class
+3         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+3
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+2       0
+AVAILABLE SEATS:
+A class       B class
+4         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+2
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+4       0
+AVAILABLE SEATS:
+A class       B class
+2         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+4
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+----------------------------------
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+----------------------------------
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+2       0
+AVAILABLE SEATS:
+A class       B class
+4         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+2
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+----------------------------------
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+----------------------------------
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+2       0
+AVAILABLE SEATS:
+A class       B class
+4         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+2
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+----------------------------------
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+----------------------------------
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================
+==============================
+TRAIN
+ROUTES:
+PATRA-ATHINA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+PATRA-PYRGOS
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LIANOKLADI
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+ATHINA-LARISA
+RESERVED SEATS:
+A class       B class
+0       0
+AVAILABLE SEATS:
+A class       B class
+6         12
+TOTAL  SEATS :
+18
+RESERVED SEATS :
+0
+----------------------------------
+BOAT
+ROUTES:
+Patra-Angona
+RESERVED SEATS:
+B class       C class
+3        0
+AVAILABLE SEATS:
+7       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+3
+Patra-Benetia
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+Patra-Mprintezi
+RESERVED SEATS:
+B class       C class
+0        0
+AVAILABLE SEATS:
+10       24
+TOTAL  SEATS :
+34
+RESERVED SEATS :
+0
+----------------------------------
+AIRPLANE
+ROUTES:
+ATHINA-THES/NIKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-MILANO
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-FRANKFOYRTH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+ATHINA-N.YORKH
+RESERVED SEATS:
+A class       B class
+0        0
+AVAILABLE SEATS:
+4          16
+TOTAL  SEATS :
+20
+RESERVED SEATS :
+0
+==============================

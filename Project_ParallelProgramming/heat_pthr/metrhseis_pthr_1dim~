@@ -1,0 +1,50 @@
+<=============================8==================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8  Using 1-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 642.8663372993 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<===========================25===================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 25 Using 1-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 792.5941407681 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<==========================64===================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 64 Using 1-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 988.1477713585 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<==========================121===================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 121        Using 1-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 1109.1267883778 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<==========================196====================================>
+

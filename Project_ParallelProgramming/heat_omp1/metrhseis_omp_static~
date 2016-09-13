@@ -1,0 +1,46 @@
+//<=====================================8=========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8->Using Static scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 486.0918104649 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<=====================================25=========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 25->Using Static scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 738.6919498444 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<=====================================64=========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 64->Using Static scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 1185.7232928276 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<====================================121========================================>
+Moving heat source to new position.
+End of computation. 
+Informations :
+->Chosen number of pthreads: 121->Using Static scheduling of threads.
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 1759.1262221336 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<====================================196========================================>

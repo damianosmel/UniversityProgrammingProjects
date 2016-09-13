@@ -1,0 +1,10 @@
+for ( i = 1; i <= 10; i++)
+{
+	System.out.println("<< "+i+"th Execution >>");
+	shawn.runCommand("prepare_world","edge_model=list comm_model=disk_graph transm_model=stats_chain range=1");
+	shawn.runCommand("chain_transm_model","name=reliable");
+	shawn.runCommand("load_world","file=fix_density/fix_density_90_10.1333_8.xml processors=flooding");
+	shawn.runCommand("simulation","max_iterations=100");
+	shawn.runCommand("dump_transmission_stats");
+	System.out.println();
+}

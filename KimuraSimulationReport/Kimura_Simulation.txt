@@ -1,0 +1,120 @@
+Given model parameters k = 30.8 and d = 0.1, with 1000 replicates
+Estimation statistics on 998 replicates: 
+Mean of estimated kappa = 39.58		Standard deviation = 28.91	Square root of MSE = 30.20
+
+
+Given model parameters k = 30.8 and d = 0.2, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 33.86		Standard deviation = 12.85	Square root of MSE = 13.20
+
+
+Given model parameters k = 30.8 and d = 0.3, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 32.81		Standard deviation = 9.32	Square root of MSE = 9.53
+
+
+Given model parameters k = 30.8 and d = 0.4, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 32.53		Standard deviation = 8.31	Square root of MSE = 8.48
+
+
+Given model parameters k = 30.8 and d = 0.5, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 31.92		Standard deviation = 7.06	Square root of MSE = 7.14
+
+
+Given model parameters k = 30.8 and d = 0.6, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 31.72		Standard deviation = 6.14	Square root of MSE = 6.21
+
+
+Given model parameters k = 30.8 and d = 0.7, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 32.18		Standard deviation = 6.55	Square root of MSE = 6.69
+
+
+Given model parameters k = 30.8 and d = 0.8, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 31.70		Standard deviation = 5.71	Square root of MSE = 5.78
+
+
+Given model parameters k = 30.8 and d = 0.9, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 32.08		Standard deviation = 5.95	Square root of MSE = 6.09
+
+
+Given model parameters k = 30.8 and d = 1.0, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 31.66		Standard deviation = 5.81	Square root of MSE = 5.87
+
+
+Given model parameters k = 30.8 and d = 1.1, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 31.83		Standard deviation = 6.02	Square root of MSE = 6.10
+
+
+Given model parameters k = 30.8 and d = 1.2, with 1000 replicates
+Estimation statistics on 1000 replicates: 
+Mean of estimated kappa = 32.23		Standard deviation = 6.87	Square root of MSE = 7.02
+
+
+Given model parameters k = 30.8 and d = 1.3, with 1000 replicates
+Estimation statistics on 996 replicates: 
+Mean of estimated kappa = 32.71		Standard deviation = 7.78	Square root of MSE = 8.01
+
+
+Given model parameters k = 30.8 and d = 1.4, with 1000 replicates
+Estimation statistics on 980 replicates: 
+Mean of estimated kappa = 33.08		Standard deviation = 8.54	Square root of MSE = 8.84
+
+
+Given model parameters k = 30.8 and d = 1.5, with 1000 replicates
+Estimation statistics on 949 replicates: 
+Mean of estimated kappa = 33.08		Standard deviation = 8.62	Square root of MSE = 8.92
+
+
+Given model parameters k = 30.8 and d = 1.6, with 1000 replicates
+Estimation statistics on 947 replicates: 
+Mean of estimated kappa = 32.05		Standard deviation = 8.50	Square root of MSE = 8.59
+
+
+Given model parameters k = 30.8 and d = 1.7, with 1000 replicates
+Estimation statistics on 887 replicates: 
+Mean of estimated kappa = 31.49		Standard deviation = 8.53	Square root of MSE = 8.56
+
+
+Given model parameters k = 30.8 and d = 1.8, with 1000 replicates
+Estimation statistics on 826 replicates: 
+Mean of estimated kappa = 31.22		Standard deviation = 8.77	Square root of MSE = 8.77
+
+
+Given model parameters k = 30.8 and d = 1.9, with 1000 replicates
+Estimation statistics on 784 replicates: 
+Mean of estimated kappa = 29.99		Standard deviation = 8.32	Square root of MSE = 8.36
+
+
+Given model parameters k = 30.8 and d = 2.0, with 1000 replicates
+Estimation statistics on 753 replicates: 
+Mean of estimated kappa = 29.80		Standard deviation = 8.84	Square root of MSE = 8.89
+
+
+Given model parameters k = 30.8 and d = 2.1, with 1000 replicates
+Estimation statistics on 713 replicates: 
+Mean of estimated kappa = 28.76		Standard deviation = 8.09	Square root of MSE = 8.34
+
+
+Given model parameters k = 30.8 and d = 2.2, with 1000 replicates
+Estimation statistics on 686 replicates: 
+Mean of estimated kappa = 27.48		Standard deviation = 7.34	Square root of MSE = 8.05
+
+
+Given model parameters k = 30.8 and d = 2.3, with 1000 replicates
+Estimation statistics on 642 replicates: 
+Mean of estimated kappa = 26.84		Standard deviation = 7.30	Square root of MSE = 8.30
+
+
+Given model parameters k = 30.8 and d = 2.4, with 1000 replicates
+Estimation statistics on 656 replicates: 
+Mean of estimated kappa = 26.13		Standard deviation = 10.63	Square root of MSE = 11.60
+
+

@@ -1,0 +1,60 @@
+<==============================8===================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8  Using 3-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 2839.4999563694 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<=============================27==================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 27 Using 3-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 2170.7815229893 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<=============================64==================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 64 Using 3-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 4543.5387849808 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<==================================125==================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 125        Using 3-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 2009.7715139389 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<==================================216==================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 216        Using 3-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 3250.1141011715 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!

@@ -1,0 +1,18 @@
+MAIN = main
+PROG = serial
+LIBDIRS = 
+INCDIRS = 
+SRCPATH = ./
+COMPILERFLAGS = -O3 -Wall
+
+CC = gcc
+CFLAGS = $(COMPILERFLAGS) $(INCDIRS)
+LIBS = -lGL -lGLU -lglut -lm -lpthread
+
+serial:
+	$(CC) $(CFLAGS) -o $(PROG) $(LIBDIRS) $(LIBS) $(SRCPATH)$(MAIN).cpp 
+
+clean:
+	rm -f *.o $(PROG) core.*
+
+.PHONY: serial

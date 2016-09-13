@@ -1,0 +1,57 @@
+//<=====================================10 epanalipseis=========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8->Using Static scheduling of threads.
+->Chosen repeats of computation: 10  and jacobi method used 80 times.
+Time results
+->Average computation time: 0.5107521027 sec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<=====================================10 epanalipseis=========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8->Using Guided scheduling of threads.
+->Chosen repeats of computation: 10  and jacobi method used 80 times.
+Time results
+->Average computation time: 1.7943027884 sec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<=====================================50 epanalipseis=========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8->Using Static scheduling of threads.
+->Chosen repeats of computation: 50  and jacobi method used 400 times.
+Time results
+->Average computation time: 0.5126801640 sec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<=====================================50 epanalipseis=========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8->Using Guided scheduling of threads.
+->Chosen repeats of computation: 50  and jacobi method used 400 times.
+Time results
+->Average computation time: 1.8223499686 sec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+//<=====================================100 epanalipseis========================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8->Using Static scheduling of threads.
+->Chosen repeats of computation: 100  and jacobi method used 800 times.
+Time results
+->Average computation time: 0.5005571726 sec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Goodbye!
+
+//<=====================================100 epanalipseis========================================>

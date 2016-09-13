@@ -1,0 +1,61 @@
+<========================================8====================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 8  Using 2-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 829.8416793346 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<========================================25===================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 25 Using 2-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 901.5947222710 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<=====================================64=====================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 64 Using 2-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 1192.2953486443 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<====================================121======================================>
+End of computation. 
+Informations :
+->Chosen number of pthreads: 121        Using 2-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 1322.6729154587 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!
+<==================================196=======================================>
+Moving heat source to new position.
+End of computation. 
+Informations :
+->Chosen number of pthreads: 196        Using 2-Dimensional division,
+->Chosen repeats of computation: 5  and jacobi method used 40 times.
+Time results
+->Average computation time: 1835.2460503578 msec.
+Terminating experiment!
+Clearing used memory.
+Please Wait...
+Free allocated memory for  threads[] array.
+Goodbye!

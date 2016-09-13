@@ -1,0 +1,41 @@
+# Project: Project1
+# Makefile created by Dev-C++ 4.9.8.0
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = taksid_graf.o tiboat.o ticket1.o titrain.o tplane.o $(RES)
+LINKOBJ  = taksid_graf.o tiboat.o ticket1.o titrain.o tplane.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib" 
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/include/c++"  -I"C:/Dev-Cpp/include/c++/mingw32"  -I"C:/Dev-Cpp/include/c++/backward"  -I"C:/Dev-Cpp/include" 
+BIN  = ask2.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS = $(INCS) 
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before ask2.exe all-after
+
+
+clean: clean-custom
+	rm -f $(OBJ) $(BIN)
+
+$(BIN): $(LINKOBJ)
+	$(CPP) $(LINKOBJ) -o "ask2.exe" $(LIBS)
+
+taksid_graf.o: taksid_graf.cpp
+	$(CPP) -c taksid_graf.cpp -o taksid_graf.o $(CXXFLAGS)
+
+tiboat.o: tiboat.cpp
+	$(CPP) -c tiboat.cpp -o tiboat.o $(CXXFLAGS)
+
+ticket1.o: ticket1.cpp
+	$(CPP) -c ticket1.cpp -o ticket1.o $(CXXFLAGS)
+
+titrain.o: titrain.cpp
+	$(CPP) -c titrain.cpp -o titrain.o $(CXXFLAGS)
+
+tplane.o: tplane.cpp
+	$(CPP) -c tplane.cpp -o tplane.o $(CXXFLAGS)

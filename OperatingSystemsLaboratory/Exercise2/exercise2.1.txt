@@ -1,0 +1,3 @@
+Firstly we move to the specific directory cd /usr/src/kernel
+	Inside it in the file config.h we search for the declaration of USE_NICE and we turn it off switching to 1 from 0, save and exit the file.
+	we go the home cd .. , cd /usr/src/tools , then we run make hdboot and then reboot. 	
